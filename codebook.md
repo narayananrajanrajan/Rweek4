@@ -36,7 +36,7 @@ The source data was collected from the UCI Machine Learning Repository to comple
 12. Then applied the mean and standard deviation calculations across the groups
 
 
-13. Produced "calculated_tidy_data.txt" as the second expected output
+13. Produced "sensor_avg_by_act_sub.txt" as the second expected output
 
 
 Variables:-
