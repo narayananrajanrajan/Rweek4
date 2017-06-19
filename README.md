@@ -15,4 +15,4 @@ This is the course project for the Getting and Cleaning Data Coursera course. Th
 
 7. Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
 
-8. The end result is shown in the file tidy.txt.
+8. The end result is shown in the file sensor_avg_by_act_sub.txt.
