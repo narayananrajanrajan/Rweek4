@@ -31,7 +31,7 @@ The source data was collected from the UCI Machine Learning Repository to comple
 9. Combined the data frames to produce one data frame containing the subjects, measurements and activities
 
 
-10. Produced "merged_tidy_data.txt" with the combined data frame as the first expected output
+10. Produced "sensor_data_mean_std" with the combined data frame as the first expected output
 
 
 11. Created another data set using the data.table library to easily group the tidy data by subject and activity
